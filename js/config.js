@@ -24,7 +24,7 @@ const SITE_CONFIG = {
 const API_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
-        name: '电影天堂资源',
+        name: '电影天堂',
         detail: 'http://caiji.dyttzyapi.com', 
     },
     ruyi: {
@@ -121,36 +121,6 @@ const API_SITES = {
     fczy: {
         api: 'https://api.fczy888.me/api.php/provide/vod',
         name: '蜂巢资源'
-    },
-    ukzy: {
-        api: 'https://api.ukuapi88.com/api.php/provide/vod',
-        name: 'U酷资源'
-    },
-	    ckzy: {
-        api: 'https://ckzy.me/api.php/provide/vod',
-        name: 'CK资源',
-        adult: true
-    },
-    jkun: {
-        api: 'https://jkunzyapi.com/api.php/seaxml/vod',
-        name: 'jkun资源',
-        adult: true
-    },
-    lsb: {
-        api: 'https://apilsbzy1.com/api.php/provide/vod',
-        name: 'lsb资源',
-        adult: true
-    },
-	yutu: {
-        api: 'https://apiyutu.com/api.php/provide/vod',
-        name: '玉兔资源',
-        adult: true
-    },
-    huangcang: {
-        api: 'https://hsckzy.vip',
-        name: '黄色仓库',
-        adult: true,
-        detail: 'https://hsckzy.vip'    
     },
 };
 
