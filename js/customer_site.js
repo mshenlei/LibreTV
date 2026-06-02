@@ -268,9 +268,8 @@ const CUSTOMER_SITES = {
       name: '🔞黑料资源',
       api: 'https://www.heiliaozyapi.com/api.php/provide/vod',
       detail: 'https://heiliaozy.cc',
-    }
+    },
 };
-
 // 调用全局方法合并
 if (window.extendAPISites) {
     window.extendAPISites(CUSTOMER_SITES);
